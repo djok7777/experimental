@@ -1,0 +1,1 @@
+var fogFleet = ["I-401 Se-toku class Submarine", "Takao class heavy cruiser", "Kongou class fast battleship"];
